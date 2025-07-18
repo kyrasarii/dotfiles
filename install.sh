@@ -6,7 +6,7 @@ git clone https://aur.archlinux.org/yay.git
 cd yay
 makepkg -si
 cd ..
-yay -S catppuccin-gtk-theme-mocha pfetch
+yay -S catppuccin-gtk-theme-mocha pfetch grimblast cava
 yay -S ags-hyprpanel-git
 
 fisher install catppuccin-gtk-theme-mocha
