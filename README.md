@@ -2,7 +2,9 @@
 
 Welcome to my curated Arch Linux setup, featuring a visually stunning Mocha Catppuccin theme and the dynamic Hyprland Wayland compositor. This configuration blends elegance, performance, and modern Linux aesthetics for a truly immersive desktop experience.
 
----<img width="1920" height="1080" alt="snapshot_2025-07-18_17-55-34" src="https://github.com/user-attachments/assets/d4fa9bf0-c67f-4128-a1f8-8f3f5fd819c9" />
+---
+
+<img width="1920" height="1080" alt="Screenshot" src="https://github.com/user-attachments/assets/d4fa9bf0-c67f-4128-a1f8-8f3f5fd819c9" />
 
 
 ## ✨ Features
