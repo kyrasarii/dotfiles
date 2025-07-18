@@ -7,7 +7,7 @@ cd yay
 makepkg -si
 cd ..
 yay -S catppuccin-gtk-theme-mocha pfetch
-yay -S ags-hyprland git
+yay -S ags-hyprpanel-git
 
 fisher install catppuccin-gtk-theme-mocha
 fish_config theme save "Catppuccin Mocha"
