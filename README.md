@@ -1,4 +1,4 @@
-# Dotfiles: Mocha Catppuccin Hyprland Arch Setup
+# Dotfiles: Catppuccin Mocha Hyprland Setup
 
 Welcome to my curated Arch Linux setup, featuring a visually stunning Mocha Catppuccin theme and the dynamic Hyprland Wayland compositor. This configuration blends elegance, performance, and modern Linux aesthetics for a truly immersive desktop experience.
 
