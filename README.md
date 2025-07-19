@@ -4,7 +4,7 @@ Welcome to my curated Arch Linux setup, featuring a visually stunning Mocha Catp
 
 ---
 
-<img width="1920" height="1080" alt="snapshot_2025-07-19_19-56-51" src="https://github.com/user-attachments/assets/34ba1636-ecd1-487c-80e3-e500927d3f11" />
+<img width="1920" height="1080" alt="Screenshot" src="https://github.com/user-attachments/assets/34ba1636-ecd1-487c-80e3-e500927d3f11" />
 
 
 ## ✨ Features
@@ -42,7 +42,6 @@ cd ~/dotfiles
 - [Arch Wiki: Hyprland](https://wiki.archlinux.org/title/Hyprland)
 - [Catppuccin Themes](https://github.com/catppuccin)
 - [Hyprland GitHub](https://github.com/hyprwm/Hyprland)
-- [Waybar](https://github.com/Alexays/Waybar)
 
 ---
 
